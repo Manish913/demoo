@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(155, 231, 68, 0.705);
+}
+header {
+    font-family: 'Lato', sans-serif;
+
+    font-family: 'Source Sans Pro', sans-serif;
+}
